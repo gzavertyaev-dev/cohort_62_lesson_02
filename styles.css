@@ -47,3 +47,18 @@ footer {
   padding: 20px;
   border-top: 2px solid black;
 }
+
+.logo {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.nav_contatiner {
+  display: flex;
+  gap: 20px;
+}
+
+.link {
+  font-size: 24px;
+  font-weight: bold;
+}
